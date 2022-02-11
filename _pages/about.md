@@ -12,6 +12,9 @@ Currently I am a student at the Faculty of Computer Science, Universitas Indones
 
 I did my undergraduate studies at [Department of Informatics](https://informatika.unida.gontor.ac.id/), [University of Darussalam Gontor](https://unida.gontor.ac.id/), with thesis supervised by [Shoffin Nahwa Utama, M.Kom.](http://informatika.uin-malang.ac.id/shoffin-nahwa-utama/) and co-supervised by [Triana Harmini, M.Pd.](https://scholar.google.co.id/citations?user=Gx0l9MAAAAAJ&hl=en). At the time I also listed as Teaching Assistant and Laboratory Staff at Laboratory of Software Engineering. My undergraduate thesis entitled: **"Desain dan Implementasi Evaluasi Kinerja Dosen Online (Studi Kasus Departemen Teknik Informatika Universitas Darussalam Gontor)"**.
 
+<q>_Sic Parvis Magna_</q> &#8211;Sir Francis Drake
+<q>_Long is the way and hard, that out of Hell, leads up to light_</q> &#8211;John Milton, _Paradise Lost_
+
 News
 ------
  - 10/2/2022: This site is published.
