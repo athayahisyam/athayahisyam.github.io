@@ -38,37 +38,7 @@ Work experience
 * 2016: Teaching Assistant of Algorithm and Programming Course
   * Duties included: Offering tutorial to entry level programming
   * Supervisor: [Shoffin Nahwa Utama, M.T.](http://informatika.uin-malang.ac.id/shoffin-nahwa-utama/)
-  
-<!-- Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
 
 Publications
 ======
 See [Publications](https://athayahisyam.github.io/publications/) page, or [my Google Scholar page](https://scholar.google.co.id/citations?view_op=list_works&hl=en&hl=en&user=poy7OgIAAAAJ)
-  
-<!-- Talks
-======
-
-TBA
-  <!-- <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Teaching
-======
-
-TBA -->
-  <!-- <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
-<!-- Service and leadership
-======
-TBA -->
-<!-- * Currently signed in to 43 different slack teams -->
