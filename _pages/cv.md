@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For printable version, click [here](https://drive.google.com/drive/folders/15CjD8D-jJem0ecHUUpJ46yj-P_tMGo32?usp=sharing).
+For printable version, click [here](https://drive.google.com/file/d/12u_zWtxmFMu-0NghmdUR3LQMmfO64_-C/view?usp=sharing).
 
 Education
 ======
