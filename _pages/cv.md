@@ -9,10 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+For printable version, click [here](https://drive.google.com/drive/folders/15CjD8D-jJem0ecHUUpJ46yj-P_tMGo32?usp=sharing).
+
 Education
 ======
 * B.Sc. in Informatics, University of Darussalam Gontor, 2020
-* M.Sc. in Computer Science, Universitas Indonesia, Expected 2022
+* M.Sc. in Computer Science, Universitas Indonesia, Expected 2023
 
 Work experience
 ======
