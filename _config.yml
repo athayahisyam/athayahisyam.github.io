@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hisyam Athaya"
 title_separator          : "-"
 name                     : &name "Hisyam Athaya"
-description              : &description "Student and Researcher"
+description              : &description "Wikidata Staff @ Wikimedia Indonesia | Teaching Assistant @ CSUI"
 url                      : https://athayahisyam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "athayahisyam/athayahisyam.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Hisyam Athaya"
-  avatar           : "athaya_profil.JPG"
-  bio              : "Student, Faculty of Computer Science, Universitas Indonesia"
+  avatar           : "Athaya_Profil.jpeg"
+  bio              : "Wikidata Staff @ Wikimedia Indonesia | Teaching Assistant @ Department of Computer Science, Universitas Indonesia"
   location         : "Jakarta, Indonesia"
   employer         :
   pubmed           : 

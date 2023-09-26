@@ -9,15 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
-For printable version, click [here](https://drive.google.com/file/d/12u_zWtxmFMu-0NghmdUR3LQMmfO64_-C/view?usp=sharing).
+For printable version, click [here](https://drive.google.com/file/d/1ejlChIJjW1CGiRETyiUpBiOPCTW9HI1C/view?usp=sharing).
 
 Education
 ======
 * B.Sc. in Informatics, University of Darussalam Gontor, 2020
-* M.Sc. in Computer Science, Universitas Indonesia, Expected 2023
+* M.Sc. in Computer Science, Universitas Indonesia, 2023
 
 Work experience
 ======
+* 2023 - Current: Wikidata Staff
+  * Wikimedia Indonesia
+  * Duties included: teaching, course development, research, and community engagement.
+  
+* 2021 - Current: Teaching Assistant
+  * Faculty of Computer Science, the Universitas Indonesia
+  * Course name: Advanced Computer-Assisted Teaching
+  * Duties included: preparing lectures, assignment grading, course administrative,student engagement, and coaching.
+
 * 2019 - 2020: Librarian Staff
   * University of Darussalam Gontor Library
   * Duties included: Library Management, Human Resource Development and Student Soft Skill Enhancement Officer
