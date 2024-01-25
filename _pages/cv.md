@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For printable version, click [here](https://drive.google.com/file/d/1ejlChIJjW1CGiRETyiUpBiOPCTW9HI1C/view?usp=sharing).
+For printable version, click [here](https://drive.google.com/file/d/1ZqV2oZq3RWHx_8memRRqp52PIxiM-jdV/view?usp=sharing).
 
 Education
 ======
@@ -25,7 +25,7 @@ Work experience
 * 2021 - Current: Teaching Assistant
   * Faculty of Computer Science, the Universitas Indonesia
   * Course name: Advanced Computer-Assisted Teaching
-  * Duties included: preparing lectures, assignment grading, course administrative,student engagement, and coaching.
+  * Duties included: preparing lectures, assignment grading, course administration, student engagement, and coaching.
 
 * 2019 - 2020: Librarian Staff
   * University of Darussalam Gontor Library
